@@ -14,7 +14,8 @@ Salient object detection in optical remote sensing images (ORSI-SOD) aims to aut
    </div>
 Overview of DASGNet. The overall architecture is shown in the upper left. It consists of two key modules: a multi-scale direction-aware attention module (MDAM) and a semantic-guided edge reconstruction module (SERM). MDAM is composed of a direction-aware spatial attention block (DSAB), a direction-aware channel self-attention block (DCSAB), and a multi-scale convolution block (MCB). SERM is composed of a multi-dimensional semantic integration block (MSIB) and a dynamic edge semantic fusion block (DESFB).
 
-<div align=center>
+
+   <div align=center>
    <img src="https://github.com/ICMR-2025/DASGNet/blob/main/images/SERM.png">
    </div>
 Illustrations of the proposed SERM.
